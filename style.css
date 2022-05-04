@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
 
 body {
-  background: linear-gradient(90deg, #8cabc69f, #92ad97);
+  background: linear-gradient(90deg, #8cabc675, #b7b7b7);
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   text-align: center;
@@ -58,7 +58,7 @@ a:hover {
   padding: 30px;
   border: 1px solid #b3b3b300;
   box-shadow: 0px 2px 16px #5e5e5e6e;
-  background-color: #e8e8e8c3;
+  background-color: #e8e8e861;;
   border-radius: 3px;
 }
 
